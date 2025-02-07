@@ -1,4 +1,4 @@
-# College_Campus_NetworkHere's a **short and clear README** for your GitHub project:  
+# College_Campus_Network
 
 ---
 
